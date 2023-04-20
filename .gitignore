@@ -131,3 +131,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/GetFileAndFormatIt/dataset/unlabeled
+/GetFileAndFormatIt/dataset/train/
+/GetFileAndFormatIt/dataset/val/
+/trainingItems/
+/GetFileAndFormatIt/.ipynb_checkpoints/
+/GetFileAndFormatIt/dataset/
+/GetFileAndFormatIt/unlabeled/
