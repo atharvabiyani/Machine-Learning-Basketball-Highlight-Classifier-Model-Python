@@ -1,0 +1,10 @@
+ball_in_hand
+block
+defense
+dribble
+no_action
+pass
+pick
+run
+shoot
+walk
