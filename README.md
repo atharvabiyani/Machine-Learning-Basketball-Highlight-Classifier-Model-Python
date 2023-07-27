@@ -19,5 +19,5 @@ This machine learning group project was made with me and my group of three other
 <h1>Data Set Download 📊</h1>
 The dataset can be download here: https://drive.google.com/file/d/1fXSAgb1L6eWdeT9oOFqk0rtc6waQEk8D/view?usp=share_link
 
-<h1>Presentation Slides</h1>
-
+<h1>Presentation Slides & Demo of Project</h1>
+The presentation slides + demo, detailing the step by step approach we took is shown in these google slides here: https://docs.google.com/presentation/d/1DvmUx3_Ho0nhxL9YxlRf3pR55SXnKq7uQ2aE6fcgWWM/edit?usp=sharing
