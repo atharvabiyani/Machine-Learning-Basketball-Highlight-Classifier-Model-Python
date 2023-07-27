@@ -1,4 +1,4 @@
-<h1>Basketball Highlight Classifier Machine Learning Model 🏀</h1>
+<h1>Basketball Highlight Classifier AI Model 🏀</h1>
 
 <img src='https://www.icegif.com/wp-content/uploads/2022/06/icegif-658.gif' alt='Basketball Picture'>
 
